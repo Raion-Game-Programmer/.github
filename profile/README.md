@@ -19,3 +19,13 @@ Welcome to the Raion Community 2025 Game Programmer team! We are a group of pass
 | 11 | Tengku Muhammad Fadlan Praditya | Member |
 | 12 | Hadi Kresnadi | Member |
 | 13 | Eleazar Tadeo Eman | Member |
+
+##🎮 Our Mission
+To empower aspiring game developers, foster creativity, and craft immersive gaming experiences that leave a lasting impact.
+
+##🌍 Connect With Us
+Join our journey and shape the future of game development! 🎮🚀
+
+>"A game is the sum of its mechanics, but the soul comes from the players." – Unknown
+---
+🔥 **Game Programmer Raion Community 2025 - #ForgeTheFuture**
