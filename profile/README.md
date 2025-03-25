@@ -1,6 +1,6 @@
-# 🚀 People Behind App Programmer Raion Community 2025
+# 🚀 People Behind Game Programmer Raion Community 2025
 
-Welcome to the Raion Community 2025 App Programmer team! We are a group of passionate developers, innovators, and tech enthusiasts dedicated to pushing the boundaries of application development. With a shared vision of building impactful digital solutions, our team works together to create, innovate, and inspire. Meet the minds behind our journey! 🎯
+Welcome to the Raion Community 2025 Game Programmer team! We are a group of passionate developers, innovators, and tech enthusiasts dedicated to pushing the boundaries of game development. With a shared vision of building impactful and immersive gaming experiences, our team works together to create, innovate, and inspire. Meet the minds behind our journey! 🎮
 
 ## 🌟 Team Members
 
