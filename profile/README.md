@@ -26,7 +26,7 @@ To empower aspiring game developers, foster creativity, and craft immersive gami
 ## 🌍 Connect With Us
 Join our journey and shape the future of game development! 🎮🚀
 
-> "Video games are bad for you? That's what they said about rock n' roll.""
+> "Video games are bad for you? That's what they said about rock n' roll."
  
 
 🔥 **Game Programmer Raion Community 2025 - #ForgeTheFuture**
