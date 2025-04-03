@@ -44,4 +44,4 @@ Join our journey and shape the future of game development! 🎮🚀
 > "Video games are bad for you? That's what they said about rock n' roll."
  
 
-🔥 **Game Programmer Raion Community 2025 - #ForgeTheFuture**
+🔥 **Game Programmer Raion Community 2025 - #RAWRRR**
