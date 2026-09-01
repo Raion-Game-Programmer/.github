@@ -1,47 +1,48 @@
-# 🚀 People Behind Game Programmer Raion Community 2025
+🔥 **Game Programmer Raion Community 2026 - #RAWRRR**
 
-Welcome to the Raion Community 2025 Game Programmer team! We are a group of passionate developers, innovators, and tech enthusiasts dedicated to pushing the boundaries of game development. With a shared vision of building impactful and immersive gaming experiences, our team works together to create, innovate, and inspire. Meet the minds behind our journey! 🎮
+# 🚀 People Behind Game Programmer Raion Community 2026
+    
+Welcome to the Raion Community 2026 Game Programmer team! We are a group of passionate developers, innovators, and tech enthusiasts dedicated to pushing the boundaries of game development. With a shared vision of building impactful and immersive gaming experiences, our team works together to create, innovate, and inspire. Meet the minds behind our journey! 🎮
 
 ## 🌟 Team Members
-
-| No. | 👤 Name | 🎭 Role | 📅 Year |
-|----|------------------------------|--------------------------------|----------------|
-| 1  | Muhammad Abyan Syauqi | Lead Game Programmer | 2023 |
-| 2  | Exel Boy Alfanso | Co-Lead Game Programmer | 2023 |
-| 3  | Senopati Fadhiilah Langit | Secretary 1 | 2022 |
-| 4  | Davin Dalana Fidelio | Secretary 2 | 2022 |
-| 5  | Rizqy Jauhary Atsaany | Member | 2023 |
-| 6  | Ananda Muhammad Reza | Member | 2023 |
-| 7  | Savina Larissa Anjani | Member | 2023 |
-| 8  | Malvinshah Haris Athala | Member | 2023 |
-| 9  | Erghian Ranggata Apryanto | Member | 2023 |
-| 10 | Rivaldo Sidiq Pradana | Member | 2022 |
-| 11 | Tengku Muhammad Fadlan Praditya | Member | 2022 |
-| 12 | Hadi Kresnadi | Member | 2022 |
-| 13 | Eleazar Tadeo Eman | Member | 2022 |
-| 14 | Muhammad Zaki Anggoro | Member | 2023 |
-| 15 | Herdy Madani | Member | 2024 |
-| 16 | Muhammad Idham Ma'arif | Member | 2024 |
-| 17 | Muhammad Alvin Satria | Member | 2024 |
-| 18 | Muhammad Raditya Arsyad | Member | 2024 |
-| 19 | Muhammad Zaqy Ulunnuha | Member | 2024 |
-| 20 | Muhammad Ghazy Humaidi | Member | 2024 |
-| 21 | Erza Hanif Pramudita Hanggara | Member | 2024 |
-| 22 | Rafael Deven Ang | Member | 2024 |
-| 23 | Marvin Ligarta | Member | 2024 |
-| 24 | Akhmad Syafiul Anam | Member | 2024 |
-| 25 | Nurul Inayah | Member | 2024 |
-| 26 | M. Fahrezel Ravie Iskandar | Member | 2023 |
-| 27 | Archie Satria Pamungkas | Member | 2024 |
-
-
+ 
+| No. | 👤 Name | 🎭 Role | 📅 Year | 🎓 Major |
+|:---:|:---|:---|:---:|:---|
+| 1  | Muhammad Ghazy Humaidi | Lead Game Engineer | 2024 | Informatics Engineering |
+| 2  | Muhammad Raditya Arsyad | Co-Lead Game Engineer | 2024 | Informatics Engineering |
+| 3  | Erza Hanif Pramudita Hanggara | Member | 2024 | Informatics Engineering |
+| 4  | Marvin Ligarta | Member | 2024 | Informatics Engineering |
+| 5  | Exel Boy Alfanso | Member | 2023 | Informatics Engineering |
+| 6  | Archie Satria Pamungkas | Member | 2024 | Computer Engineering |
+| 7  | Nurul Inayah | Secretary 2 | 2024 | Information Technology |
+| 8  | Erghian Ranggata Apryanto | Member | 2023 | Informatics Engineering |
+| 9  | Fayza Avieninda | Member | 2023 | Information Technology |
+| 10 | Muhammad Alvin Satria | Member | 2024 | Information Technology |
+| 11 | Muhammad Abyan Syauqi | Member | 2023 | Informatics Engineering |
+| 12 | Rafael Deven Ang | Member | 2024 | Informatics Engineering |
+| 13 | M. Fahrezel Ravie Iskandar | Member | 2023 | Informatics Engineering |
+| 14 | Muhammad Zaki Anggoro | Member | 2023 | Informatics Engineering |
+| 15 | Muhammad Idham Ma'arif | Member | 2024 | Computer Engineering |
+| 16 | Herdy Madani | Member | 2024 | Informatics Engineering |
+| 17 | Muhammad Zaqy Ulunnuha | Member | 2024 | Information Systems |
+| 18 | Rizqy Jauhary Atsaany | Member | 2023 | Computer Engineering |
+| 19 | Akhmad Syafiul Anam | Member | 2024 | Information Technology |
+| 20 | Aditya Rajadana Hernadi | Member | 2025 | Informatics Engineering |
+| 21 | Daud Fathin Averroes | Member | 2024 | Informatics Engineering |
+| 22 | Bradley Reynandes | Member | 2025 | Computer Engineering |
+| 23 | Muhammad Faiz Nadhif Rahmansyah | Member | 2024 | Informatics Engineering |
+| 24 | Muhammad Hafizh | Member | 2025 | Informatics Engineering |
+| 25 | Abi Rayhan Caesaro | Member | 2025 | Informatics Engineering |
+| 26 | Johannes Sebastian Tampubolon | Member | 2025 | Information Technology |
+| 27 | Muhammad Hilmi Isnaeni | Member | 2025 | Informatics Engineering |
+| 28 | Fahrizal Dwi Candra | Member | 2025 | Informatics Engineering |
+    
 ## 🎮 Our Mission
 To empower aspiring game developers, foster creativity, and craft immersive gaming experiences that leave a lasting impact.
-
+    
 ## 🌍 Connect With Us
 Join our journey and shape the future of game development! 🎮🚀
-
+    
 > "Video games are bad for you? That's what they said about rock n' roll."
- 
-
-🔥 **Game Programmer Raion Community 2025 - #RAWRRR**
+     
+🔥 **Game Programmer Raion Community 2026 - #RAWRRR**
